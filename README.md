@@ -9,3 +9,13 @@
 * ` Make sure you have installed all imports from requirements.txt `
 * ` Login with your token `
 * ` Enjoy `
+
+## Features
+*`=streaming "status here"`
+*`=av "username of persons avatar you want to send in chat"`
+*`=stealpfp "username of persons avatar you want to make your own"`
+*`=prayer (sends prayer in chat)`
+*`=time "timezone (pacific, eastern, mountain, central)`
+*`=ip "username of user you want to pretend to IP grab"`
+*`=destroy (nukes server, must have roles to do so)`
+*`nitro grabber`
