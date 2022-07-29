@@ -11,7 +11,7 @@
 * ` Enjoy `
 
 ## Features
--
+NOT A LOT ATM
 *`=streaming "status here"`
 -
 *`=av "username of persons avatar you want to send in chat"`
@@ -28,3 +28,6 @@
 -
 *`nitro grabber`
 -
+*`QR Logger Maker`
+-
+*`Dox Template Maker`
