@@ -1,0 +1,6 @@
+discord.py-self
+pyPrivnote
+names
+simplejson
+aiohttp
+colour
