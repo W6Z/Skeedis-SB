@@ -6,6 +6,6 @@
 
 ## Usage
 
-> Make sure you have installed all imports from requirements.txt
-> Login with your token
->> Enjoy
+* ` Make sure you have installed all imports from requirements.txt `
+* ` Login with your token `
+* ` Enjoy `
